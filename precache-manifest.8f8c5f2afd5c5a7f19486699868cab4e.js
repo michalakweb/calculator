@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e2664d629e48c0483013",
+    "revision": "9f2176b5a5495051d7a0",
     "url": "/calculator/static/css/main.e2094fb7.chunk.css"
   },
   {
-    "revision": "e2664d629e48c0483013",
-    "url": "/calculator/static/js/main.5ce53115.chunk.js"
+    "revision": "9f2176b5a5495051d7a0",
+    "url": "/calculator/static/js/main.d6052a9f.chunk.js"
   },
   {
     "revision": "0d721d06f78c96d55f57",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/calculator/static/js/2.a71e8be1.chunk.js"
   },
   {
-    "revision": "0d41e51ddfc7231cf7ed962053ee9a76",
+    "revision": "51c4564c1f4c2cb7c8386eb6da2aa968",
     "url": "/calculator/index.html"
   }
 ];
